@@ -26,5 +26,5 @@ public void Flower(float radius, float layers){
     fill(51, 90, 40);
   }
   textSize(128);
-  text("VALENTINES?", 200, 900);
+  text("VALENTINES?", 100, 900);
 }
